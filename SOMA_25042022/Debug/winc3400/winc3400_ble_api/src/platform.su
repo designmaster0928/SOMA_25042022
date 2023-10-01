@@ -1,0 +1,8 @@
+../winc3400/winc3400_ble_api/src/platform.c:41:6:platform_set_timeout	16	static
+../winc3400/winc3400_ble_api/src/platform.c:48:6:platform_receive	16	static
+../winc3400/winc3400_ble_api/src/platform.c:53:17:platform_init	24	static
+../winc3400/winc3400_ble_api/src/platform.c:87:17:platform_interface_send	16	static
+../winc3400/winc3400_ble_api/src/platform.c:97:6:platform_cmd_cmpl_signal	4	static
+../winc3400/winc3400_ble_api/src/platform.c:102:17:platform_cmd_cmpl_wait	16	static
+../winc3400/winc3400_ble_api/src/platform.c:120:6:platform_event_signal	4	static
+../winc3400/winc3400_ble_api/src/platform.c:125:17:platform_event_wait	24	static

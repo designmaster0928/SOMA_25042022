@@ -1,0 +1,4 @@
+../winc3400/winc3400_ble_api/src/gattm_task.c:35:9:gattm_add_svc_req_handler	32	static
+../winc3400/winc3400_ble_api/src/gattm_task.c:56:9:gattm_add_attribute_req_handler	40	static
+../winc3400/winc3400_ble_api/src/gattm_task.c:76:9:gattm_att_set_value_req_handler	32	static
+../winc3400/winc3400_ble_api/src/gattm_task.c:94:9:gattm_att_get_value_req_handler	40	static

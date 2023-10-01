@@ -1,0 +1,7 @@
+../Core/Src/audioPlay.c:71:12:fillReadBuffer	32	static
+../Core/Src/audioPlay.c:86:6:i2sStart	16	static
+../Core/Src/audioPlay.c:103:6:i2sStop	4	static
+../Core/Src/audioPlay.c:110:6:i2sSetSampleRate	24	static
+../Core/Src/audioPlay.c:139:6:PlayAudioFile	192	dynamic
+../Core/Src/audioPlay.c:374:6:HAL_I2S_TxHalfCpltCallback	16	static
+../Core/Src/audioPlay.c:379:6:HAL_I2S_TxCpltCallback	24	static

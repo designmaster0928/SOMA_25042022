@@ -1,0 +1,2 @@
+../MP3/polyphase.c:112:6:xmp3_PolyphaseMono	48	static,ignoring_inline_asm
+../MP3/polyphase.c:234:6:xmp3_PolyphaseStereo	56	static,ignoring_inline_asm

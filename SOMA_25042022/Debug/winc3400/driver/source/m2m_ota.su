@@ -1,0 +1,9 @@
+../winc3400/driver/source/m2m_ota.c:67:13:m2m_ota_cb	40	static
+../winc3400/driver/source/m2m_ota.c:107:16:m2m_ota_init	24	static
+../winc3400/driver/source/m2m_ota.c:134:16:m2m_ota_notif_set_url	40	static
+../winc3400/driver/source/m2m_ota.c:150:16:m2m_ota_notif_check_for_update	32	static
+../winc3400/driver/source/m2m_ota.c:164:15:m2m_ota_notif_sched	40	static
+../winc3400/driver/source/m2m_ota.c:178:15:m2m_ota_start_update	40	static
+../winc3400/driver/source/m2m_ota.c:194:15:m2m_ota_rollback	56	static
+../winc3400/driver/source/m2m_ota.c:219:15:m2m_ota_abort	32	static
+../winc3400/driver/source/m2m_ota.c:231:15:m2m_ota_switch_firmware	56	static

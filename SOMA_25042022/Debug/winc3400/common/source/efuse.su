@@ -1,0 +1,7 @@
+../winc3400/common/source/efuse.c:53:7:is_efuse_bank_loaded	24	static
+../winc3400/common/source/efuse.c:70:5:load_efuse_to_regs	32	static
+../winc3400/common/source/efuse.c:127:12:read_from_efuse	32	static
+../winc3400/common/source/efuse.c:145:7:read_efuse_struct	40	static
+../winc3400/common/source/efuse.c:231:6:dump_efuse_struct	48	static
+../winc3400/common/source/efuse.c:260:12:write_to_efuse	32	static
+../winc3400/common/source/efuse.c:329:7:overwrite_efuse_struct	40	static

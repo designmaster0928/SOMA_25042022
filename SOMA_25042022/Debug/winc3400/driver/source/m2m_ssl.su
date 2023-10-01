@@ -1,0 +1,9 @@
+../winc3400/driver/source/m2m_ssl.c:71:13:m2m_ssl_cb	152	static
+../winc3400/driver/source/m2m_ssl.c:165:15:m2m_ssl_init	24	static
+../winc3400/driver/source/m2m_ssl.c:190:15:m2m_ssl_handshake_rsp	48	static
+../winc3400/driver/source/m2m_ssl.c:208:15:m2m_ssl_send_certs_to_winc	64	static
+../winc3400/driver/source/m2m_ssl.c:290:15:m2m_ssl_retrieve_cert	32	static
+../winc3400/driver/source/m2m_ssl.c:344:15:m2m_ssl_retrieve_hash	24	static
+../winc3400/driver/source/m2m_ssl.c:368:14:m2m_ssl_stop_processing_certs	8	static
+../winc3400/driver/source/m2m_ssl.c:377:14:m2m_ssl_ecc_process_done	4	static
+../winc3400/driver/source/m2m_ssl.c:401:15:m2m_ssl_set_active_ciphersuites	40	static

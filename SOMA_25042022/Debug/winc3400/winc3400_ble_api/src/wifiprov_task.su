@@ -1,0 +1,9 @@
+../winc3400/winc3400_ble_api/src/wifiprov_task.c:39:17:wifiprov_configure_provisioning	32	static
+../winc3400/winc3400_ble_api/src/wifiprov_task.c:64:17:wifiprov_create_db	24	static
+../winc3400/winc3400_ble_api/src/wifiprov_task.c:80:17:wifiprov_start	24	static
+../winc3400/winc3400_ble_api/src/wifiprov_task.c:91:17:wifiprov_disable	16	static
+../winc3400/winc3400_ble_api/src/wifiprov_task.c:101:17:wifiprov_scan_mode_change_ind_send	24	static
+../winc3400/winc3400_ble_api/src/wifiprov_task.c:112:17:wifiprov_scan_list_ind_send	24	static
+../winc3400/winc3400_ble_api/src/wifiprov_task.c:123:17:wifiprov_wifi_con_update	24	static
+../winc3400/winc3400_ble_api/src/wifiprov_task.c:139:6:wifiprov_scan_mode_change_ind_handler	24	static
+../winc3400/winc3400_ble_api/src/wifiprov_task.c:146:6:wifiprov_complete_ind_handler	24	static

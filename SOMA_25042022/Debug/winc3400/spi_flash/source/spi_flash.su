@@ -1,0 +1,13 @@
+../winc3400/spi_flash/source/spi_flash.c:85:14:spi_flash_read_status_reg	24	static
+../winc3400/spi_flash/source/spi_flash.c:210:14:spi_flash_load_to_cortus_mem	40	static
+../winc3400/spi_flash/source/spi_flash.c:246:14:spi_flash_sector_erase	32	static
+../winc3400/spi_flash/source/spi_flash.c:278:14:spi_flash_write_enable	16	static
+../winc3400/spi_flash/source/spi_flash.c:306:14:spi_flash_write_disable	16	static
+../winc3400/spi_flash/source/spi_flash.c:339:14:spi_flash_page_program	40	static
+../winc3400/spi_flash/source/spi_flash.c:376:14:spi_flash_read_internal	32	static
+../winc3400/spi_flash/source/spi_flash.c:398:14:spi_flash_pp	48	static
+../winc3400/spi_flash/source/spi_flash.c:444:15:spi_flash_rdid	24	static
+../winc3400/spi_flash/source/spi_flash.c:508:7:spi_flash_read	32	static
+../winc3400/spi_flash/source/spi_flash.c:540:7:spi_flash_write	40	static
+../winc3400/spi_flash/source/spi_flash.c:615:7:spi_flash_erase	40	static
+../winc3400/spi_flash/source/spi_flash.c:669:8:spi_flash_get_size	16	static

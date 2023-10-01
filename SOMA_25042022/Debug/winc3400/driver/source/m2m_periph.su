@@ -1,0 +1,7 @@
+../winc3400/driver/source/m2m_periph.c:59:14:get_gpio_idx	16	static
+../winc3400/driver/source/m2m_periph.c:75:14:gpio_ioctl	24	static
+../winc3400/driver/source/m2m_periph.c:104:7:m2m_periph_init	16	static
+../winc3400/driver/source/m2m_periph.c:109:7:m2m_periph_gpio_set_dir	16	static
+../winc3400/driver/source/m2m_periph.c:114:7:m2m_periph_gpio_set_val	16	static
+../winc3400/driver/source/m2m_periph.c:119:7:m2m_periph_gpio_get_val	16	static
+../winc3400/driver/source/m2m_periph.c:152:7:m2m_periph_pullup_ctrl	16	static

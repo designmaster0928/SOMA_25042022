@@ -1,0 +1,15 @@
+../winc3400/winc3400_ble_api/src/gatt_client.c:31:16:at_ble_uuid_type2len	16	static
+../winc3400/winc3400_ble_api/src/gatt_client.c:46:17:at_ble_primary_service_discover_all	24	static
+../winc3400/winc3400_ble_api/src/gatt_client.c:60:17:at_ble_primary_service_discover_by_uuid	48	static
+../winc3400/winc3400_ble_api/src/gatt_client.c:85:17:at_ble_included_service_discover_all	24	static
+../winc3400/winc3400_ble_api/src/gatt_client.c:98:17:at_ble_characteristic_discover_all	24	static
+../winc3400/winc3400_ble_api/src/gatt_client.c:111:17:at_ble_characteristic_discover_by_uuid	48	static
+../winc3400/winc3400_ble_api/src/gatt_client.c:136:17:at_ble_descriptor_discover_all	24	static
+../winc3400/winc3400_ble_api/src/gatt_client.c:150:17:at_ble_characteristic_read_by_uuid	40	static
+../winc3400/winc3400_ble_api/src/gatt_client.c:163:17:at_ble_characteristic_read	24	static
+../winc3400/winc3400_ble_api/src/gatt_client.c:168:17:at_ble_characteristic_read_multible	24	static
+../winc3400/winc3400_ble_api/src/gatt_client.c:174:17:at_ble_characteristic_write	48	static
+../winc3400/winc3400_ble_api/src/gatt_client.c:185:17:at_ble_characteristic_reliable_write_prepare	40	static
+../winc3400/winc3400_ble_api/src/gatt_client.c:192:17:at_ble_characteristic_reliable_write_execute	16	static
+../winc3400/winc3400_ble_api/src/gatt_client.c:197:17:at_ble_characteristic_reliable_write_cancel	16	static
+../winc3400/winc3400_ble_api/src/gatt_client.c:202:17:at_ble_exchange_mtu	16	static

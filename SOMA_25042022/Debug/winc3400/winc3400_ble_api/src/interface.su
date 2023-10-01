@@ -1,0 +1,3 @@
+../winc3400/winc3400_ble_api/src/interface.c:35:6:platform_interface_callback	24	static
+../winc3400/winc3400_ble_api/src/interface.c:118:17:interface_send	16	static
+../winc3400/winc3400_ble_api/src/interface.c:127:17:interface_send_wait	32	static

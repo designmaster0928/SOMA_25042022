@@ -1,0 +1,7 @@
+../winc3400/bus_wrapper/source/nm_bus_wrapper_stm32f429.c:73:13:spi_select_slave	16	static
+../winc3400/bus_wrapper/source/nm_bus_wrapper_stm32f429.c:152:14:spi_rw	40	static
+../winc3400/bus_wrapper/source/nm_bus_wrapper_stm32f429.c:189:6:nm_bus_wifi_spi_init	16	static
+../winc3400/bus_wrapper/source/nm_bus_wrapper_stm32f429.c:224:7:nm_bus_init	24	static
+../winc3400/bus_wrapper/source/nm_bus_wrapper_stm32f429.c:264:7:nm_bus_ioctl	24	static
+../winc3400/bus_wrapper/source/nm_bus_wrapper_stm32f429.c:287:7:nm_bus_deinit	4	static
+../winc3400/bus_wrapper/source/nm_bus_wrapper_stm32f429.c:299:7:nm_bus_reinit	16	static

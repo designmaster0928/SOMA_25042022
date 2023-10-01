@@ -1,0 +1,5 @@
+../winc3400/winc3400_ble_api/src/security.c:36:17:at_ble_authenticate	72	static
+../winc3400/winc3400_ble_api/src/security.c:91:17:at_ble_pair_key_reply	48	static
+../winc3400/winc3400_ble_api/src/security.c:130:17:at_ble_encryption_start	32	static
+../winc3400/winc3400_ble_api/src/security.c:140:17:at_ble_encryption_request_reply	32	static
+../winc3400/winc3400_ble_api/src/security.c:151:17:at_ble_send_slave_sec_request	24	static

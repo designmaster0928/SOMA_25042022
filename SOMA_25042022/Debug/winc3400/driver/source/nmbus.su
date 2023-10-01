@@ -1,0 +1,11 @@
+../winc3400/driver/source/nmbus.c:49:7:nm_bus_iface_init	24	static
+../winc3400/driver/source/nmbus.c:62:7:nm_bus_iface_deinit	16	static
+../winc3400/driver/source/nmbus.c:76:7:nm_bus_reset	16	static
+../winc3400/driver/source/nmbus.c:96:7:nm_bus_iface_reconfigure	24	static
+../winc3400/driver/source/nmbus.c:114:8:nm_read_reg	16	static
+../winc3400/driver/source/nmbus.c:137:7:nm_read_reg_with_ret	16	static
+../winc3400/driver/source/nmbus.c:159:7:nm_write_reg	16	static
+../winc3400/driver/source/nmbus.c:172:21:p_nm_read_block	24	static
+../winc3400/driver/source/nmbus.c:196:7:nm_read_block	32	static
+../winc3400/driver/source/nmbus.c:222:21:p_nm_write_block	24	static
+../winc3400/driver/source/nmbus.c:246:7:nm_write_block	32	static

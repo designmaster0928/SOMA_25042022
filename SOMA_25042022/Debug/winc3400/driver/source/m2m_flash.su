@@ -1,0 +1,11 @@
+../winc3400/driver/source/m2m_flash.c:83:14:winc_flash_compare	168	static
+../winc3400/driver/source/m2m_flash.c:104:14:winc_flash_write_verify	32	static
+../winc3400/driver/source/m2m_flash.c:119:14:crc7	24	static
+../winc3400/driver/source/m2m_flash.c:134:14:verify_control_structure	32	static
+../winc3400/driver/source/m2m_flash.c:145:14:read_control_structure	24	static
+../winc3400/driver/source/m2m_flash.c:162:14:update_control_structure	24	static
+../winc3400/driver/source/m2m_flash.c:186:13:find_flash_section	96	static
+../winc3400/driver/source/m2m_flash.c:236:7:m2m_flash_erase_sector	24	static
+../winc3400/driver/source/m2m_flash.c:271:7:m2m_flash_write	32	static
+../winc3400/driver/source/m2m_flash.c:302:7:m2m_flash_read	32	static
+../winc3400/driver/source/m2m_flash.c:333:7:m2m_flash_switch_firmware	88	static

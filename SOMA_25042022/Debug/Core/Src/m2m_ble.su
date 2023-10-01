@@ -1,0 +1,6 @@
+../Core/Src/m2m_ble.c:46:6:m2m_ble_api_write_func	16	static
+../Core/Src/m2m_ble.c:58:14:m2m_ble_plf_wait_func	8	static
+../Core/Src/m2m_ble.c:63:14:m2m_ble_wifi_callback	24	static
+../Core/Src/m2m_ble.c:81:7:m2m_ble_init	24	static
+../Core/Src/m2m_ble.c:103:7:m2m_ble_event_get	16	static
+../Core/Src/m2m_ble.c:116:7:m2m_ble_wifi_init	16	static

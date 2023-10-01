@@ -1,0 +1,3 @@
+../MP3/imdct.c:187:12:FreqInvertRescale	36	static,ignoring_inline_asm
+../MP3/imdct.c:134:13:WinPrevious	28	static,ignoring_inline_asm
+../MP3/imdct.c:722:45:xmp3_IMDCT	312	static,ignoring_inline_asm

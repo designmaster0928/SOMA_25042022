@@ -1,0 +1,8 @@
+../Core/Src/sgtl5000.c:56:10:sgtl5000_read	32	static
+../Core/Src/sgtl5000.c:70:6:sgtl5000_write	32	static
+../Core/Src/sgtl5000.c:87:6:sgtl5000_set_volume	16	static
+../Core/Src/sgtl5000.c:92:6:sgtl5000_set_freq	16	static
+../Core/Src/sgtl5000.c:106:6:sgtl5000_start_play	8	static
+../Core/Src/sgtl5000.c:114:6:sgtl5000_stop_play	8	static
+../Core/Src/sgtl5000.c:122:6:sgtl5000_start_receive	8	static
+../Core/Src/sgtl5000.c:132:6:sgtl5000_init	8	static

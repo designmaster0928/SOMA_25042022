@@ -1,0 +1,15 @@
+../winc3400/winc3400_ble_api/src/gapm_task.c:59:16:gapm_get_address_type	24	static
+../winc3400/winc3400_ble_api/src/gapm_task.c:87:17:gapm_reset_req_handler	32	static
+../winc3400/winc3400_ble_api/src/gapm_task.c:109:17:gapm_set_dev_name_handler	40	static
+../winc3400/winc3400_ble_api/src/gapm_task.c:134:17:gapm_start_adv_cmd_handler	24	static
+../winc3400/winc3400_ble_api/src/gapm_task.c:190:17:gapm_set_dev_config_cmd_handler	40	static
+../winc3400/winc3400_ble_api/src/gapm_task.c:230:17:gapm_start_scan_cmd_handler	24	static
+../winc3400/winc3400_ble_api/src/gapm_task.c:253:17:gapm_start_connection_cmd_handler	32	static
+../winc3400/winc3400_ble_api/src/gapm_task.c:288:17:gapm_cancel_cmd_handler	16	static
+../winc3400/winc3400_ble_api/src/gapm_task.c:300:17:gapm_connection_cfm_handler	32	static
+../winc3400/winc3400_ble_api/src/gapm_task.c:322:17:gapm_resolv_addr_cmd_handler	32	static
+../winc3400/winc3400_ble_api/src/gapm_task.c:337:17:gapm_white_list_mgm_cmd	32	static
+../winc3400/winc3400_ble_api/src/gapm_task.c:359:17:gapm_adv_report_evt_handler	24	static
+../winc3400/winc3400_ble_api/src/gapm_task.c:398:17:gapm_dev_bdaddr_ind_handler	24	static
+../winc3400/winc3400_ble_api/src/gapm_task.c:407:17:gapm_cmp_evt	40	static
+../winc3400/winc3400_ble_api/src/gapm_task.c:456:17:gapm_addr_solved_ind_handler	24	static

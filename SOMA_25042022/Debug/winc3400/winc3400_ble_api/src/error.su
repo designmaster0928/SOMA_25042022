@@ -1,0 +1,2 @@
+../winc3400/winc3400_ble_api/src/error.c:30:17:at_ble_att_error	24	static
+../winc3400/winc3400_ble_api/src/error.c:54:17:at_ble_gap_error	24	static

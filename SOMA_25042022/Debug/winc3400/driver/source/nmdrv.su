@@ -1,0 +1,10 @@
+../winc3400/driver/source/nmdrv.c:56:7:nm_get_hif_info	24	static
+../winc3400/driver/source/nmdrv.c:82:7:nm_get_firmware_full_info	32	static
+../winc3400/driver/source/nmdrv.c:150:7:nm_get_ota_firmware_info	32	static
+../winc3400/driver/source/nmdrv.c:220:7:nm_drv_init_download_mode	24	static
+../winc3400/driver/source/nmdrv.c:246:7:nm_drv_init_hold	24	static
+../winc3400/driver/source/nmdrv.c:295:7:nm_drv_init_start	24	static
+../winc3400/driver/source/nmdrv.c:352:7:nm_drv_init	24	static
+../winc3400/driver/source/nmdrv.c:368:7:nm_drv_deinit	24	static
+../winc3400/driver/source/nmdrv.c:400:7:nm_cpu_start	16	static
+../winc3400/driver/source/nmdrv.c:413:13:nm_get_state	4	static

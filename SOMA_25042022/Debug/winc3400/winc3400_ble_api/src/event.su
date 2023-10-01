@@ -1,0 +1,8 @@
+../winc3400/winc3400_ble_api/src/event.c:56:13:event_free	16	static
+../winc3400/winc3400_ble_api/src/event.c:62:6:event_post	24	static
+../winc3400/winc3400_ble_api/src/event.c:94:24:event_get	32	static
+../winc3400/winc3400_ble_api/src/event.c:131:6:event_init	16	static
+../winc3400/winc3400_ble_api/src/event.c:144:24:handle_ble_event	32	static
+../winc3400/winc3400_ble_api/src/event.c:358:10:special_events_handler	24	static
+../winc3400/winc3400_ble_api/src/event.c:380:17:at_ble_event_get	40	static
+../winc3400/winc3400_ble_api/src/event.c:403:17:at_ble_event_user_defined_post	16	static
